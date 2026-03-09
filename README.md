@@ -1,8 +1,9 @@
 # 📝 Task Manager & Scheduler
 
-A full-featured, interactive **task management and scheduling dashboard** built with Python, Streamlit, Pandas, NumPy, Matplotlib, and Plotly.
+A full-featured interactive **task management and scheduling dashboard** built with Python, Streamlit, Pandas, NumPy, Matplotlib, and Plotly.
 
----
+🚀 **Live Demo:**  
+👉 https://flowtask.streamlit.app
 
 ## 🚀 Features
 
