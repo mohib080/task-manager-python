@@ -88,10 +88,4 @@ project_1/
 
 ## 📸 Screenshots
 
-_Coming soon._
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
